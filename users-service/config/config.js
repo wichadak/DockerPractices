@@ -8,6 +8,6 @@ module.exports = {
     database: 'users',
     user: 'users_service',
     password: '123',
-    port: 3306   // local host port which is mapped to mysql container port
+    port: 6002   // local host port which is mapped to mysql container port
   }
 };
